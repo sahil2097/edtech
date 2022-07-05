@@ -1,7 +1,7 @@
 numpy==1.21.6
 scikit_learn==1.1.1
 streamlit==1.10.0
-Python==3.8.13
+python==3.8.13
 altair==4.2.0
 feature-engine==1.4.1
 Flask==2.1.2
