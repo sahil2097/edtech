@@ -1,5 +1,6 @@
-pandas
-numpy
-sklearn
-streamlit
+pandas==1.4.3
+numpy==1.21.6
+scikit-learn==1.1.1
+streamlit==1.10.0
+MarkupSafe==2.0.1
 
