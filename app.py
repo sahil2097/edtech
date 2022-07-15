@@ -5,7 +5,7 @@ import sklearn
 import streamlit as st
 #from sklearn.preprocessing import MinMaxScaler
 
-pickle_in = open(r'C:\Users\sahil\Documents\360 DigitMG\Project\project attempt2\edtech_flask_new.pkl', 'rb')
+pickle_in = open('edtech_flask_new.pkl', 'rb')
 final_model = pickle.load(pickle_in)
 
 
